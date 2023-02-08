@@ -56,3 +56,4 @@ name = pred_df.idxmax(axis=1).tolist()
 st.write('## Result')
 st.write('このアイリスはきっと',str(name[0]),'です!')
 
+
